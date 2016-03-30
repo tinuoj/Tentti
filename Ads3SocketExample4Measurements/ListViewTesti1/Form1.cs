@@ -59,11 +59,19 @@ namespace ListViewTesti1
             int rivi = listView1.Items.Count;
 
             // new row and first colomn
-            listView1.Items.Insert(0, m.Time.ToString());
+            ulong high = (ulong)m.timeHi;
+            uint low = (uint)m.timeLo; ;
+            long ai = (long)((high << 32) + low);
+            string aika = DateTime.FromFileTimeUtc(ai).ToString("HH:mm:ss");
+            
+            listView1.Items.Insert(0, aika);
 
             // second and third columns
             listView1.Items[0].SubItems.Add(m.measurement1.ToString());
-            listView1.Items[0].SubItems.Add(m.measurement2.ToString());            
+            listView1.Items[0].SubItems.Add(m.measurement2.ToString());
+            listView1.Items[0].SubItems.Add(m.measurement3.ToString());
+            listView1.Items[0].SubItems.Add(m.counter.ToString());
+            
         }
 
         private void buttonStop_Click(object sender, EventArgs e)

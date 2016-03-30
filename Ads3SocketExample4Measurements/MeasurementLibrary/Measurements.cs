@@ -28,7 +28,7 @@ namespace MeasurementLibrary
         public override string ToString()
         {
             return timeHi+" " +timeLo * 1.0e-7 + " " + measurement1 + " "
-                + measurement2 + " " + measurement3;
+                + measurement2 + " " + measurement3 + " " +counter;
         } 
 
     }
