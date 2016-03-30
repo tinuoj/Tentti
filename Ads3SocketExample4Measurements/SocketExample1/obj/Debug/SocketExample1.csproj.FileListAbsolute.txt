@@ -1,0 +1,5 @@
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\SocketExample1\bin\Debug\SocketExample1.exe.config
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\SocketExample1\bin\Debug\SocketExample1.exe
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\SocketExample1\bin\Debug\SocketExample1.pdb
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\SocketExample1\obj\Debug\SocketExample1.exe
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\SocketExample1\obj\Debug\SocketExample1.pdb

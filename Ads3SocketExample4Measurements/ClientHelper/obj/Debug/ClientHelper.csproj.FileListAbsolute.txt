@@ -1,0 +1,13 @@
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.dll
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.pdb
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.dll
+Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.pdb
+C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.dll
+C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.pdb
+C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.dll
+C:\Users\lpemake\Desktop\SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.pdb
+C:\temp\Tehtava4\Ads3SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.dll
+C:\temp\Tehtava4\Ads3SocketExample4Measurements\ClientHelper\bin\Debug\ClientHelper.pdb
+C:\temp\Tehtava4\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.csprojResolveAssemblyReference.cache
+C:\temp\Tehtava4\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.dll
+C:\temp\Tehtava4\Ads3SocketExample4Measurements\ClientHelper\obj\Debug\ClientHelper.pdb
